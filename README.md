@@ -6,6 +6,10 @@ Cloud Services for cluster discovery.
 
 ## Preparation
 
+Build the application:
+
+```./mvnw package```
+
 You must be running an instance of Pivotal Application Service with the Spring 
 Cloud Services tile installed and available.
 
